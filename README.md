@@ -26,3 +26,12 @@
 #
 #Tutorial - Getting Started With Node.js, Express, MongoDB
 #http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+#https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
+#
+#https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+#https://github.com/scotch-io/node-api
+
+npm install express --save
+npm install router -g
+npm install router --save
+npm install mongoose --save
